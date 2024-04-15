@@ -1,10 +1,5 @@
 # QR_codes
 
-qr_codes.py © 2024 by Milan Darji.
-
-*Licensed under CC BY 4.0 | Creative Commons # Attribution 4.0 International.*
-*This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. https://creativecommons.org/licenses/by/4.0/*
-
 ## Basics
 This program allows a user to create a QR code for a url or text, with the user's own image as a logo in the middle.
 
@@ -36,3 +31,10 @@ Segno is another option for a QR code generation module. https://realpython.com/
 **background_color:** obvious
 
 **basewidth:** base width for logo, basically this determines the size of the logo
+
+## Legal Stuff
+
+qr_codes.py © 2024 by Milan Darji.
+
+*Licensed under CC BY 4.0 | Creative Commons # Attribution 4.0 International.*
+*This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. https://creativecommons.org/licenses/by/4.0/*
